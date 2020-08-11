@@ -3,10 +3,10 @@ import time
 # import random comes later on (isnt implemented yet ;-))
 import random
 #Language Select (Work in Progress)
-Laguage_Select = input("Select your Language! Wähle deine Sprache! (DE/EN) ")
-if Laguage_Select == "DE" or "De" or "de":
+Laguage_Select_1 = input("Select your Language! Wähle deine Sprache! (DE/EN) ")
+if Laguage_Select_1 == "DE" or "De" or "de":
     print("Hallo, dies ist mein erstes kleines Projekt, Viel Spaß =]")
-elif Laguage_Select == "EN" or "En" or "en":
+elif Laguage_Select_1 == "EN" or "En" or "en":
     print("Hi, This is my First Project im currently working on! ")
 time.sleep(2)
 #Tutorial
@@ -37,8 +37,12 @@ else:
     print("Oops im sorry for what happened =[ , please restart and type *Felix* ")
     END
 time.sleep(3)
-#bruh XD
-print("Es war einmal ein Kleiner Zauberer der etwas Ganz tun werden wollte... BLA BLA BLA DEN REST KÖNNT IHR EUCH SELBST DENKEN")
+#sorry for choosing the language im currently working on
+Laguage_Select_2 = input("Choose your Language! Wähle deine Sprache! DE/EN ")
+if Language_Select_2 == "DE" or "De" or "de":
+    print("Es war einmal ein Kleiner Zauberer der etwas Ganz tun werden wollte... BLA BLA BLA DEN REST KÖNNT IHR EUCH SELBST DENKEN")
+if Laguage_Select_2 == "EN" or "En" or "en":
+    print("Once upon a time a little ")
 time.sleep(4)
 print("XD")
 #Start des eigentlichen Spiels =)
