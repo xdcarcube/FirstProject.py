@@ -1,5 +1,5 @@
 # Just4Fun
-(Actually my First "Big" Project and you can help me, i guess???
+(Actually my First "Big" Project and YOU can help me.
 And idk... just copy my code and tell me what your thinking of =))
 
 Welcome to my Description.
