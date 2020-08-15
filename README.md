@@ -3,9 +3,5 @@
 And idk... just copy my code and tell me what your thinking of =))
 
 Welcome to my Description.
-So, basically i want to firstly build a terminal based rpg thats working with input, if/elif/else, i have thoughts of a level system, currency system and something like defeating Monsters. Later on i want to make this game visual. (Can someone give me some ideas please?)
-But for know i dont know how to do this so i think im going to extend my code much more than i did yet.
-Thank"s for helping me!
-And im sorry if my English is bad :( 
-
-If they Are Any Problems you can Write me on Discord: carcube#5103
+So, basically i want to firstly build a terminal based rpg thats working with inputs, classes/if/elif/else etc..I have thoughts of a leveling system, currency system and something like defeating Monsters. Do someone has knowlegde about Game Engines and how they work? If so, You could help me :D
+Discord: carcube#5103
