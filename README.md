@@ -8,4 +8,4 @@ So, basically i want to firstly build a terminal based rpg thats working with in
 
 # You can reach me via this socials if there is an Issue:
 Discord: carcube#5103
-Intagram: xdcarcube
+Instagram: xdcarcube
