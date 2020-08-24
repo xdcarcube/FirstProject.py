@@ -7,9 +7,9 @@ If someone has knowlegde about Game Engines and how they work, PLEASE contact me
 
 # You can reach me via this socials if there is an Issue:
 
-Discord: carcube#5103
+Discord --> carcube#5103
 
-Instagram: xdcarcube
+Instagram --> xdcarcube
 
 # Off Topics:
 
