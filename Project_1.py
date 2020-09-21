@@ -31,7 +31,7 @@ class Tutorials():
         return tutEN
 
     def Help(self):
-        hlp = print(str("You can always type quit to quit()/TutorialEN/money/inventory/TutorialDE <--(I´d would´nt recommend typing this if you dont have knowlegde besides the German Language)"))
+        hlp = print(str("You can always type quit to quit()/TutorialEN/money/inventory/TutorialDE "))
         return hlp
 
 Help = ["TutorialEN", "money" "inventory"] # (if the class is not working ;-;)
