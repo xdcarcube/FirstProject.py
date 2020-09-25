@@ -1,0 +1,13 @@
+# This is a .gitignore file which allows you to tell
+# git environments which files and folders you do not
+# want to upload to your repository.
+
+# This is useful because different editors (like Pycharm)
+# will each generate many files and folders unique to them
+# that other people that may contribute to the project have
+# no need for, and these files may even interfere with their
+# setups.
+ 
+venv/
+.env
+.idea
